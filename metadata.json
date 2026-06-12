@@ -1,0 +1,6 @@
+{
+  "name": "AI Story Group Reading Hub",
+  "description": "An interactive full-stack learning platform where students read stories, chat with peers, and interact with a teacher-customized AI tutor to learn AI concepts, complete reading missions, and climb the leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
